@@ -2,7 +2,6 @@
 width: 84%;
 margin: auto;
 max-width: 1440px;
-background-color:#e2e2e2;
 border-left: 1px solid #e2e2e2;
 border-right: 1px solid #e2e2e2;
 }
@@ -11,4 +10,6 @@ border-right: 1px solid #e2e2e2;
 position: relative;
 top: 100px;
 left: 20px;
+background-color: #e2e2e2
 }
+
