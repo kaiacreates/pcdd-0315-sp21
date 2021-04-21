@@ -7,6 +7,8 @@ font-weight: 600;
 font-size: 64px;
 line-height: 77px;
 letter-spacing: -1.5px;
+color: #263031;
+text-align:left;
 }
 
 h2{
@@ -15,6 +17,8 @@ font-style: normal;
 font-weight: 600;
 font-size: 48px;
 line-height: 58px;
+color: #263031;
+text-align:left;
 }
 
 h3{
@@ -23,6 +27,8 @@ font-style: normal;
 font-weight: 600;
 font-size: 34px;
 line-height: 41px;    
+color: #263031;
+text-align:left;
 }
 
 h4 {
@@ -32,6 +38,8 @@ font-weight: 600;
 font-size: 24px;
 line-height: 29px;
 letter-spacing: 0.25px;
+color: #263031;
+text-align:left;
 }
 
 h5 {
@@ -40,6 +48,8 @@ font-style: normal;
 font-weight: 600;
 font-size: 18px;
 line-height: 32px;
+color: #263031;
+text-align:left;
 }
 
 h6{
@@ -50,6 +60,8 @@ font-size: 16px;
 line-height: 28px;
 /* or 175% */
 letter-spacing: 0.15px;
+color: #263031;
+text-align:left;
 }
 
 .subhead{
