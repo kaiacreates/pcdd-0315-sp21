@@ -48,3 +48,13 @@ line-height: 28px;
 /* or 175% */
 letter-spacing: 0.15px;
 }
+
+.subhead{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;    
+    letter-spacing: 0.005em;
+    text-transform: capitalize;
+    color: #7D8383; }
