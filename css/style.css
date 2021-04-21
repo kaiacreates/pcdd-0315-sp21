@@ -2,7 +2,6 @@
 width: 84%;
 margin: auto;
 max-width: 1440px;
-background-color: #e2e2e2
 }
 
 .flex-container {
@@ -17,7 +16,8 @@ padding-top: 200px;
 padding-left: 20px;
 top: 100px;
 left: 20px;
-border-right: 3px solid #006466; }
+border-right: 3px solid #006466; 
+background-color:#ced200;}
 
 .headings {
 position:relative;
