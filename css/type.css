@@ -71,3 +71,13 @@ line-height: 25px;
 color: #263031;
 
 }
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 25px;
+    color: white
+    
+    }
