@@ -3,12 +3,6 @@
     width: 100%;
     height: 50px; }
 
-.row {
-position: relative;
-width: 100%;
-border-bottom: 1px solid #e2e2e2;
-}
-
 * {
 box-sizing: border-box;
 margin:0;
