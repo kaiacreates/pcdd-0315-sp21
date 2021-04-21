@@ -14,14 +14,12 @@ margin:0;
 width: 84%;
 margin:auto;
 max-width: 1440px;
-border-left: 1px solid #e2e2e2;
-border-right: 1px solid #e2e2e2;
 }
 
 .row {
 position: relative;
 width: 100%;
-border-bottom:1px solid #e2e2e2;
+border-bottom:1px 
 }
 
 .row [class^="col"] {
